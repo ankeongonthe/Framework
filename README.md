@@ -1,4 +1,4 @@
-# FrameworkSample
+# Framework
 Some feature in framework
 1. Extent Report
 2. Write Log to file
