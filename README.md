@@ -12,10 +12,11 @@ How to use
 2. Pom.xml: used to add the necessary dependencies used in the framework such as: TestNG, Selenium
 3. Main Keyword: ValidateHelpers
 
-    ValidateHelpers class is main keyword in Framework. It contains common functions.
+        ValidateHelpers class is main keyword in Framework. It contains common functions.
     
-    How to use: ValidateHelpers.function_name. 
-    Example: ValidateHelpers.setText(By element, String value),...
+        How to use: ValidateHelpers.function_name.
+    
+        Example: ValidateHelpers.setText(By element, String value),...
 
 4. Read data test in Excel file
 ![ảnh](https://user-images.githubusercontent.com/73646046/210927218-c796dd17-7e64-49a2-9a58-9b0f4f3c03b2.png)
