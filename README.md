@@ -13,6 +13,7 @@ How to use
 3. Main Keyword: ValidateHelpers
 
     ValidateHelpers class is main keyword in Framework. It contains common functions.
+    
     How to use: ValidateHelpers.function_name. 
     Example: ValidateHelpers.setText(By element, String value),...
 
