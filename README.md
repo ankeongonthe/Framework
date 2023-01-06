@@ -11,6 +11,8 @@ How to use
 1. Run test case in XML (src/test/java/saucedemo/testcase/runTestNG.xml)
 2. Pom.xml: used to add the necessary dependencies used in the framework such as: TestNG, Selenium
 3. Main Keyword: ValidateHelpers
+![ảnh](https://user-images.githubusercontent.com/73646046/210928191-9daa40a4-fd3b-4466-bdfa-0803e20f5bf5.png)
+
 
         ValidateHelpers class is main keyword in Framework. It contains common functions.
     
