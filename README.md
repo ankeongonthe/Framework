@@ -24,5 +24,5 @@ How to use
 4. Read data test in Excel file
 ![ảnh](https://user-images.githubusercontent.com/73646046/210927218-c796dd17-7e64-49a2-9a58-9b0f4f3c03b2.png)
 
-5. Resource folder : src/core/resources:
+5. Resource folder (src/core/resources):
         Contains necessary resources such as drivers for chrome, firefox, and excel file
